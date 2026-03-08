@@ -1,4 +1,5 @@
-# Enriching Italian Linguistic Data through Machine Translation
+# Valutazione di modelli di traduzione automatica per l'arricchimento dei dati linguistici italiani: un esperimento con il dataset LAION
+Enriching Italian Linguistic Data through Machine Translation
 
 ## Overview
 
